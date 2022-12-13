@@ -1,1 +1,2 @@
-just another readme
+#!/bin/bash
+pwd
